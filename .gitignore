@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.release/
+data/
+checkpoints/*.npz
+.env
+.env.*

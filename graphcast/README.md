@@ -1,0 +1,1 @@
+GraphCast is an external source checkout. Set `GRAPHCAST_ROOT` in the first notebook cell to the compatible source linked in the main README. The notebook imports that source directly to capture processor states.

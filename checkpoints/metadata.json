@@ -1,0 +1,412 @@
+{
+  "layer08_seed50108.npz": {
+    "layer": 8,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue501_layer_specific"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0008_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=08/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer00_seed50108.npz": {
+    "layer": 0,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0000_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=00/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer01_seed50108.npz": {
+    "layer": 1,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0001_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=01/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer02_seed50108.npz": {
+    "layer": 2,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0002_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=02/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer03_seed50108.npz": {
+    "layer": 3,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0003_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=03/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer04_seed50108.npz": {
+    "layer": 4,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue540_explicit_fit_layer_seed"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0004_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=04/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer05_seed50108.npz": {
+    "layer": 5,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue540_explicit_fit_layer_seed"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0005_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=05/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer06_seed50108.npz": {
+    "layer": 6,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue540_explicit_fit_layer_seed"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0006_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=06/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer07_seed50108.npz": {
+    "layer": 7,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue540_explicit_fit_layer_seed"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0007_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=07/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer09_seed50108.npz": {
+    "layer": 9,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0009_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=09/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer10_seed50108.npz": {
+    "layer": 10,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0010_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=10/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer11_seed50108.npz": {
+    "layer": 11,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0011_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=11/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer12_seed50108.npz": {
+    "layer": 12,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0012_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=12/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer13_seed50108.npz": {
+    "layer": 13,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0013_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=13/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer14_seed50108.npz": {
+    "layer": 14,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0014_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=14/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer15_seed50108.npz": {
+    "layer": 15,
+    "initialization": {
+      "seed": 50108,
+      "shared_across_layers": false,
+      "source": "issue542_literal_seed_layer"
+    },
+    "model": {
+      "aux_coeff": 0.03125,
+      "aux_k": 512,
+      "d_in": 512,
+      "d_sae": 4096,
+      "decoder_normalize_after_update": true,
+      "input_epsilon": 1e-06,
+      "k": 32,
+      "row_normalize": true
+    },
+    "hook": "layer0015_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "release": "issue542-literal-five-seed-16layer-results-v1",
+      "asset": "issue542_fixed_literal_seed_50108_final_checkpoint.tar",
+      "member": "issue542_fixed_literal_seed_50108/layer=15/training_seed=50108/final_sae.npz"
+    }
+  },
+  "layer08_seed50109.npz": {
+    "layer": 8,
+    "initialization": {
+      "seed": 50109,
+      "source": "issue520_explicit_training_seed",
+      "shared_across_layers": false
+    },
+    "model": {
+      "d_in": 512,
+      "d_sae": 4096,
+      "k": 32,
+      "aux_k": 512,
+      "aux_coeff": 0.03125,
+      "row_normalize": true,
+      "input_epsilon": 1e-06,
+      "decoder_normalize_after_update": true
+    },
+    "hook": "layer0008_mesh_gnn_post_res_nodes_mesh_nodes",
+    "source": {
+      "issue": "ADEMPTOR#520",
+      "run_id": "issue520_20260818_4b98e66",
+      "producer_commit": "4b98e665178ae500f980e7b63819bdf0b27b2c76",
+      "copied_from": "Banbury accepted issue520_layer8_five_seed_v1/seed=50109/layer=08/final_sae.npz",
+      "metadata_basis": "Model contract verified from producer training source; source identity from accepted issue512 seed50109 manifest. Original run_config was not present beside the copied checkpoint."
+    }
+  }
+}
