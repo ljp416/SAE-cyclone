@@ -1,19 +1,27 @@
-<h1 align="center">SAE-cyclone</h1>
+<h1 align="center">SAE-Cyclone</h1>
 
 <p align="center">
-  <strong>Tropical Cyclone Attributes in Sparse Autoencoder Features of an AI Weather Model</strong>
+  <strong>Sparse Autoencoders for GraphCast</strong>
 </p>
-
-<p align="center">Jiapei Liu · Ruidong Li · Ting Sun · Guangheng Ni</p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2610.28904"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2610.28904-b31b1b"></a>
-  <a href="https://doi.org/10.5281/zenodo.23492703"><img alt="Zenodo DOI" src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.23492703-blue"></a>
-  <a href="LICENSE"><img alt="Code: Apache 2.0" src="https://img.shields.io/badge/code-Apache%202.0-green"></a>
-  <a href="LICENSE-DATA"><img alt="Data: CC BY 4.0" src="https://img.shields.io/badge/data-CC%20BY%204.0-green"></a>
+  <a href="https://arxiv.org/abs/2610.28904"><img alt="Paper" src="https://img.shields.io/badge/arXiv-2610.28904-b31b1b"></a>
+  <a href="https://doi.org/10.5281/zenodo.23492703"><img alt="Zenodo" src="https://img.shields.io/badge/Zenodo-Data%20%26%20Checkpoints-blue"></a>
+  <a href="LICENSE"><img alt="Code license" src="https://img.shields.io/badge/code-Apache%202.0-green"></a>
+  <a href="LICENSE-DATA"><img alt="Data license" src="https://img.shields.io/badge/data-CC%20BY%204.0-green"></a>
 </p>
 
-Explore cyclone-related sparse autoencoder (SAE) features in GraphCast with [`analysis.ipynb`](analysis.ipynb). The notebook uses the Dorian–Juliette case at **1 September 2019, 18 UTC**, with saved activations and pretrained SAEs. No training is required.
+**SAE-Cyclone** is an open research resource for exploring the internal
+representations of AI weather models. We release **80 pretrained sparse
+autoencoders (SAEs)** for GraphCast, trained on hidden states generated from
+**1979–2017 ERA5 inputs** and covering **all 16 processor layers across five
+random seeds**.
+
+Using tropical cyclones as a case study, our [example notebook](analysis.ipynb)
+shows how to identify and visualize cyclone-related features from saved
+activations, with no retraining required. We hope these resources also support
+broader **mechanistic interpretability research in AI weather forecasting**,
+extending to other atmospheric phenomena.
 
 ## Quick start
 
